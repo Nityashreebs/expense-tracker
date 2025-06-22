@@ -1,8 +1,7 @@
 
 ---
 
-### `README.md` for **Expense Tracker** project:
-```markdown
+**Expense Tracker**
 # 💰 Expense Tracker - Personal Finance Manager
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
